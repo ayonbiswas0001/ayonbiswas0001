@@ -1,3 +1,4 @@
+<p align="center">
 # 💫 About Me:
 Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>📫 How to reach me biswasayon600@gmail.com<br>⚡ Fun fact  I think I am funny🤣
 
@@ -22,3 +23,4 @@ Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>�
 [![](https://visitcount.itsvg.in/api?id=ayonbiswas0001&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
