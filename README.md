@@ -1,9 +1,8 @@
-<p align="center">
 # 💫 About Me:
 Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>📫 How to reach me biswasayon600@gmail.com<br>⚡ Fun fact  I think I am funny🤣
 
 
-## 🌐 Socials:
+  ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rik.biswas.54738/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayan_biswas46/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayon-biswas-907487227/) 
 
 # 💻 Tech Stack:
@@ -23,4 +22,5 @@ Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>�
 [![](https://visitcount.itsvg.in/api?id=ayonbiswas0001&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
+
+
