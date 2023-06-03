@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>📫 How to reach me biswasayon@gmail.com<br>⚡ Fun fact  I think I am funny🤣
+Hi 👋, I'm Ayon Biswas<br>Python, C++, C , Java | Open Source Enthusiast<br>📫 How to reach me biswasayon600@gmail.com<br>⚡ Fun fact  I think I am funny🤣
 
 
 ## 🌐 Socials:
