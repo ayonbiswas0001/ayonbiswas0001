@@ -52,6 +52,29 @@ Python, C++, C, Java | Open Source Enthusiast<br>
 
 <div align="center">
 
+  
+  
+
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= ayonbiswas0001. -->
+<div class="stats" align="center">
+
+
+</div>
+<!--  End Stats Cards -->
+  
+  
+  
+  
+  
+  
+  
 ![](https://github-readme-stats.vercel.app/api?username=ayonbiswas0001&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayonbiswas0001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonbiswas0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -109,5 +132,18 @@ Python, C++, C, Java | Open Source Enthusiast<br>
 [![](https://visitcount.itsvg.in/api?id=ayonbiswas0001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
