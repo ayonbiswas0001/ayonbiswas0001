@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="my_github_profile_AdobeExpress.gif"  />
+  <img src="To_my_GitHub_profile_AdobeExpress.gif"  />
 </h1>
 
 
