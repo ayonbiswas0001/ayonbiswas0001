@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayonbiswas0001&theme=dark&hide_border=true)<br/>)](https://git.io/streak-stats)
 
 
 
@@ -81,6 +80,10 @@ Python, C++, C, Java | Open Source Enthusiast<br>
   
   
 ![](https://github-readme-stats.vercel.app/api?username=ayonbiswas0001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayonbiswas0001&theme=dark&hide_border=true)<br/>)](https://git.io/streak-stats)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayonbiswas0001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonbiswas0001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
