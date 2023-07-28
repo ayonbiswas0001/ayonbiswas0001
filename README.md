@@ -3,7 +3,6 @@
 </h1>
 
 
-
 <div align="center">
 
 # 💫 About Me
