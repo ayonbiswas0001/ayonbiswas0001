@@ -8,8 +8,9 @@
 Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 , I'm Ayon Biswas<br>
 Python, C++, C, Java | Open Source Enthusiast<be>
-<!--📫 How to reach me biswasayon600@gmail.com<br> -->
 ⚡ Fun fact: I think I am funny🤣
+<!--📫 How to reach me biswasayon600@gmail.com<br> -->
+
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rik.biswas.54738) 
