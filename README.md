@@ -7,8 +7,8 @@
 # 💫 About Me
 Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 , I'm Ayon Biswas<br>
-Python, C++, C, Java | Open Source Enthusiast<br>
-📫 How to reach me biswasayon600@gmail.com<br>
+Python, C++, C, Java | Open Source Enthusiast<be>
+<!--📫 How to reach me biswasayon600@gmail.com<br> -->
 ⚡ Fun fact: I think I am funny🤣
 
 ## 🌐 Socials
