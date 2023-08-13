@@ -24,7 +24,7 @@ Python, C++, C, Java | Open Source Enthusiast<be><br>
 # 💻 Tech Stack
 
 </div>
-
+ 
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
