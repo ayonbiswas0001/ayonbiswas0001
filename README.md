@@ -2,7 +2,7 @@
    <img src="To_my_GitHub_profile_AdobeExpress.gif"  />
 </h1>
 
-<div align="center">
+<div align="center"> 
   
 # 💫 About Me
 Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
